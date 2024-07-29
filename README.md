@@ -7,7 +7,7 @@
 
 # Others
 
-(API's)
+(Browser API's)
 
 - MediaStream
 - Navigator
